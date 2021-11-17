@@ -20,7 +20,7 @@
         <connection>scm:git:https://github.com/OswaldRiousset/TP3.git</connection>
         <developerConnection>scm:git:https://github.com/OswaldRiousset/TP3.git</developerConnection>
         <url>https://github.com/OswaldRiousset/TP3</url>
-        <tag>java-maven-calculator-web-1.1</tag>
+        <tag>java-maven-calculator-web-app-1.1</tag>
     </scm>
 
     <distributionManagement>
@@ -280,7 +280,7 @@
                 <version>2.5.3</version>
                 <configuration>
                     <username>OswaldRiousset</username>
-                    <password>EE1P8KohyvJxl2mMcnZdpuRdJxgyFB2PK3y5</password>
+                    <password>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</password>
                     <tagBase>https://github.com/OswaldRiousset/TP3</tagBase>
                     <branchBase>https://github.com/OswaldRiousset/TP3</branchBase>
                     <reportPlugins>
